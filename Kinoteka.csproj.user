@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CrazyStuipidLove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CrazyRichAsians.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FriendsWithBenefits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HowToLoseAGuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="More.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NoStringsAttached.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheOtherWoman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheProposal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WhatHappensInVegas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
